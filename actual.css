@@ -24,8 +24,8 @@ nav {
     display: flex;
     background: #f2f3f3;
     position: sticky;
-    top: 0px;
-    margin: 0px;
+    top: 0;
+    margin: 0;
 }
 
 .nav-list {
@@ -38,7 +38,7 @@ nav {
     list-style: none;
     text-decoration: none;
     color: inherit;
-    margin: 0px;
+    margin: 0;
 }
 
 .nav-parts {
@@ -127,7 +127,7 @@ nav {
 
 .about-text-all {
     width: 50%;
-    margin: 0px;
+    margin: 0;
 }
 
 .me {
@@ -144,7 +144,7 @@ nav {
     background: linear-gradient(110deg, #f2f3f3 90%, #f3a953 40%);
     font-size: 30px;
     padding: 30px;
-    margin-top: 0px;
+    margin-top: 0;
     border-radius: 6px;
 }
 
@@ -188,7 +188,7 @@ nav {
 .smash-text {
     background: linear-gradient(110deg, #f2f3f3 90%, #f3a953 40%);
     font-size: 30px;
-    margin-top: 0px;
+    margin-top: 0;
     padding: 30px;
     border-radius: 6px;
 }
@@ -206,7 +206,7 @@ nav {
     justify-content: center;
     background: linear-gradient(110deg, #f2f3f3 90%, #f3a953 40%);
     font-size: 30px;
-    margin-top: 0px;
+    margin-top: 0;
     padding: 30px;
     border-radius: 6px;
     text-decoration: none;
