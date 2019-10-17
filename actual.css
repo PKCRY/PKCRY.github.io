@@ -17,16 +17,15 @@ h1 {
     background: linear-gradient(110deg, #f2f3f3 70%, #f3a953 40%);
 }
 
-
 /*Nav Bar*/
 
 nav {
-text-decoration: none;
-display: flex;
-background: #f2f3f3;
-position: sticky;
-top: 0px;
-margin: 0px;
+    text-decoration: none;
+    display: flex;
+    background: #f2f3f3;
+    position: sticky;
+    top: 0px;
+    margin: 0px;
 }
 
 .nav-list {
@@ -112,7 +111,7 @@ margin: 0px;
     background-color: #f3a953;
     align-items: center;
     justify-content: space-around;
-    font-size: 30px
+    font-size: 30px;
 }
 
 
