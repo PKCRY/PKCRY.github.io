@@ -5,6 +5,8 @@
 
 body {
     background: #366ed8;
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 img {
@@ -32,7 +34,7 @@ nav {
 .nav-list {
     display: flex;
     flex-direction: row;
-    width: 40%;
+    width: 50%;
     justify-content: space-between;
     background-color: #f2f3f3;
     background: #f3a953;
@@ -40,6 +42,7 @@ nav {
     text-decoration: none;
     color: inherit;
     margin: 0;
+    paddding:
 }
 
 .nav-parts {
